@@ -10,18 +10,17 @@
 
 - 🔭 I’m currently working on **ReactJS projects**
 
-- 🌱 I’m currently learning **MERN stack & UE5**
+- 🌱 I’m currently learning **MERN stack & Game Development**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 💬 Ask me about **Flutter,Dart,CPP**
+- 💬 Ask me about **Flutter, Dart, CPP**
 
 - 📫 How to reach me **prathamesh.chavanpsc2019**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/falcon_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="falcon_codes" height="30" width="40" /></a>
-<a href="https://twitter.com/prathamesh_232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh_232" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user2134bv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2134bv" height="30" width="40" /></a>
 </p>
 
@@ -73,4 +72,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-chavan-232&show_icons=true&locale=en&layout=compact" alt="prathamesh-chavan-232" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-chavan-232&show_icons=true&locale=en" alt="prathamesh-chavan-232" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-chavan-232&" alt="prathamesh-chavan-232" /></p>
 
