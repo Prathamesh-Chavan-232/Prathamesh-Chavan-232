@@ -23,7 +23,7 @@ OS: Manjaro Linux x86_64
 Shell: zsh
 Pronouns: He/Him
 Location: Pune,Maharastra
-Hobbies: Gameing,Football,Sketching
+Hobbies: Gaming,Football,Sketching
 Commits: 968
 Stars: 0
 ```
