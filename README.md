@@ -3,7 +3,7 @@
 **Prathamesh-Chavan-232/Prathamesh-Chavan-232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
+<h1 align="center">Hi, I'm Prathamesh Chavan 👋</h1>
 <h3 align="center">TY CSE Student @MIT-WPU,Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-chavan-232&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chavan-232" /> </p>
