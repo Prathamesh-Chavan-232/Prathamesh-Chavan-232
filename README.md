@@ -25,7 +25,7 @@ Pronouns: He/Him
 Location: Pune,Maharastra
 Hobbies: Gameing,Football,Sketching
 Commits: 968
-Stars: 6
+Stars: 0
 ```
 <!-- <br><br><br> -->
 <!-- <br><br><br> -->
