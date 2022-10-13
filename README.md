@@ -30,11 +30,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=amarkhakhkhar2241566@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL AT amarkhakhkhar2241566@gmail.com"/></a>
- <a href="https://www.linkedin.com/in/amar-khakhkhar-18586522b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amar-khakhkhar-18586522b/"/></a>
-<a href="https://t.me/aktheking132516" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram link https://t.me/aktheking132516"/></a>
-<a href="https://api.whatsapp.com/send?phone=8140690999&text=Hello!" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp at +91 8140690999"/></a> 
-<a href="https://instagram.com/0nes.and.zer0es" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="0nes.and.zer0es"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathamesh.chavanpsc2018@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL AT prathamesh.chavanpsc2018@gmail.com"/></a>
+
+ <a href="https://www.linkedin.com/in/prathamesh-chavan-751559204/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prathamesh-chavan-751559204/"/></a>
+
+
+<a href="https://twitter.com/Prathamesh_232" target="blank"><img align="center" src="https://img.shields.io/badge/twitter?style=for-the-badge&logo=instagram&logoColor=white" alt="Prathamesh_232"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,7 +56,7 @@
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
   <br> 
   
-  <h5 align="left">PC development:<h5> 
+  <h5 align="left">Game development:<h5> 
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/> </a>
   <br>
   
