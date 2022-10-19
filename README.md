@@ -4,7 +4,7 @@
 -->
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Prathamesh-Chavan-232?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Prathamesh-Chavan-232?style=social"> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=prathamesh-chavan-232&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chavan-232" />
-<h1>Hi, I'm Prathamesh Chavan 👋</h1>
+<h1>Hey there, I'm Prathamesh Chavan 👋</h1>
 
 - 🔭 I’m currently working on **ReactJS projects**
 
