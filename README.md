@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="240" /> 
 
 ```zsh
 > neofetch
@@ -51,15 +51,15 @@ Stars: 0
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white" alt="firebase"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="firebase"/> </a>  
+<h5>App development tools:</h5>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
 <h5>General purpose languages:</h5>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python3"/> </a>
-<h5>Game Development tools:</h5>
-<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/> </a>
-<h5>App development tools:</h5>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
+<!-- <h5>Game Development tools:</h5>
+<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/> </a> -->
 <h2>Coding Platform Profiles<h2>
 <a href="https://codeforces.com/profile/falcon_codes" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces - falcon_codes"/> </a>
 <a href="https://leetcode.com/user2134Bv/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode - user2134Bv"/> </a>
