@@ -28,7 +28,7 @@ Hobbies: Gaming,Football,Sketching
 Commits: 968
 Stars: 0
 ```
-<br><br><br>
+<br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
