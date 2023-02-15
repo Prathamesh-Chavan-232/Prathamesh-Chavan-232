@@ -6,11 +6,11 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Prathamesh-Chavan-232?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Prathamesh-Chavan-232?style=social"> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=prathamesh-chavan-232&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chavan-232" />
 <h1>Hey there, I'm Prathamesh Chavan 👋</h1>
 
-- 🔭 I’m currently working on **ReactJS projects**
+- 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **MERN stack & Game Development**
+- 🌱 I’m currently learning **Machine Learning & CLIs**
 
-- 🤝 I’m looking for help with **Open Source Contribution**
+- 🤝 I’m looking for help with **Open Source Contributions**
 
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="260" /> 
 
