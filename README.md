@@ -19,7 +19,7 @@
 ```
 ```csharp
 Prathamesh-Chavan-232@github
--------------------------
+----------------------------------
 OS: Manjaro Linux x86_64
 Shell: zsh
 Pronouns: He/Him
