@@ -13,6 +13,7 @@
 - 🤝 I’m looking for help with **Open Source Contribution**
 
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
 ```zsh
 > neofetch
 ```
@@ -27,8 +28,8 @@ Hobbies: Gaming,Football,Sketching
 Commits: 968
 Stars: 0
 ```
-<!-- <br><br><br> -->
-<!-- <br><br><br> -->
+<br><br><br>
+<br><br><br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathamesh.chavanpsc2018@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL AT prathamesh.chavanpsc2018@gmail.com"/></a>
