@@ -61,14 +61,14 @@ Stars: 0
 <!-- <h5>Game Development tools:</h5>
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/> </a> -->
 <h2>Coding Platform Profiles<h2>
-<a href="https://codeforces.com/profile/falcon_codes" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces - falcon_codes"/> </a>
+<!-- <a href="https://codeforces.com/profile/falcon_codes" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces - falcon_codes"/> </a> -->
 <a href="https://leetcode.com/user2134Bv/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode - user2134Bv"/> </a>
 <a href="https://codepen.io/Falcon_codes" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)" alt="leetcode - user2134Bv"/> </a>
 </div>
-<!-- 
+
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-chavan-232&show_icons=true&locale=en" alt="prathamesh-chavan-232" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-chavan-232&" alt="prathamesh-chavan-232" /></p>
 <h5> Note: This widget doesn't show my best languages skills, it shows language I have used in repositories</h5>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-chavan-232&show_icons=true&locale=en&layout=compact" alt="prathamesh-chavan-232" /></p> 
--->
+
