@@ -23,9 +23,10 @@ Prathamesh-Chavan-232@github
 ----------------------------------
 OS: Manjaro Linux x86_64
 Shell: zsh
+Uptime: 20 years
 Pronouns: He/Him
 Location: Pune,Maharastra
-Hobbies: Gaming,Football,Sketching
+Activities: Programming, Gaming, Football, Sketching
 Commits: 968
 Stars: 0
 ```
