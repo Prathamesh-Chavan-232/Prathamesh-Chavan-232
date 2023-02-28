@@ -27,8 +27,8 @@ Uptime: 20 years
 Pronouns: He/Him
 Location: Pune,Maharastra
 Activities: Programming, Gaming, Football, Sketching
-Commits: 968
-Stars: 0
+Commits: 1k
+Stars: 9
 ```
 <br>
 
@@ -69,8 +69,7 @@ Stars: 0
 </div>
 
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-chavan-232&show_icons=true&locale=en" alt="prathamesh-chavan-232" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-chavan-232&" alt="prathamesh-chavan-232" /></p>
-<h5> Note: This widget doesn't show my best languages skills, it shows language I have used in repositories</h5>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-chavan-232&show_icons=true&locale=en&layout=compact" alt="prathamesh-chavan-232" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-chavan-232&show_icons=true&locale=en" alt="prathamesh-chavan-232" />&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-chavan-232&" alt="prathamesh-chavan-232" /></p>
+<!-- <h5> Note: This widget doesn't show my best languages skills, it shows language I have used in repositories</h5>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-chavan-232&show_icons=true&locale=en&layout=compact" alt="prathamesh-chavan-232" /></p>  -->
 
