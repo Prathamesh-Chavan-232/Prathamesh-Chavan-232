@@ -1,6 +1,7 @@
+```php
 <?php
 
-namespace AshBaker;
+namespace Falconcodes;
 
 class About extends Me
 {
@@ -8,8 +9,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'null',
+                'position' => 'Looking for SDE & ML roles'         
             ]
         ];
     }
@@ -17,14 +18,15 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
             Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
+            Typescript::class,
+            Python::class,
+            Reactjs::class,
+            Nodejs::class,
+            Mongodb::class,
+            Firebase::class,
+            Flutter::class,
+            TailwindCSS::class,
         ];
     }
 
@@ -33,3 +35,4 @@ class About extends Me
         return 'To contribute to open source.';
     }
 }
+```
