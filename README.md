@@ -23,7 +23,7 @@ Prathamesh-Chavan-232@github
 ----------------------------------
 OS: Manjaro Linux x86_64
 Shell: zsh
-Uptime: 22 years
+Uptime: 21 years
 Pronouns: He/Him
 Location: Pune,Maharastra
 Activities: Programming, Gaming, Football, Sketching
