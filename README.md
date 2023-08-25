@@ -6,11 +6,11 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Prathamesh-Chavan-232?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Prathamesh-Chavan-232?style=social"> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=prathamesh-chavan-232&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chavan-232" />
 <h1>Hey there, I'm Prathamesh Chavan 👋</h1>
 
-- 🔭 I’m currently working on **Full stack development**
+- I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **Machine Learning**
+- I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Open Source Contributions**
+- I’m looking for help with **Open Source Contributions**
 
 <!-- <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="260" /> 
 -->
@@ -57,11 +57,10 @@ Stars: 9
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
 <h5>General purpose languages:</h5>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python3"/> </a>
-<!-- <h5>Game Development tools:</h5>
-<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/> </a> -->
+<h5>Game Development tools:</h5>
+<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/> </a>
 <h2>Coding Platform Profiles<h2>
 <!-- <a href="https://codeforces.com/profile/falcon_codes" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces - falcon_codes"/> </a> -->
 <a href="https://leetcode.com/user2134Bv/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode - user2134Bv"/> </a>
