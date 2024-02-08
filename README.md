@@ -21,13 +21,13 @@
 ```csharp
 Prathamesh-Chavan-232@github
 ----------------------------------
-OS: Manjaro Linux x86_64
+OS: Endeavour OS x86_64
 Shell: zsh
 Uptime: 21 years
 Pronouns: He/Him
 Location: Pune,Maharastra
-Activities: Programming, Gaming, Football, Sketching
-Commits: 1k
+Activities: Programming, Gaming, Football, Running, Sketching
+Commits: 2K+
 Stars: 9
 ```
 <br>
