@@ -23,7 +23,7 @@ Prathamesh-Chavan-232@github
 ----------------------------------
 OS: Endeavour OS x86_64
 Shell: zsh
-Uptime: 21 years
+Uptime: 22 years
 Pronouns: He/Him
 Location: Pune,Maharastra
 Activities: Programming, Gaming, Football, Running, Sketching
